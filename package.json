@@ -1,0 +1,14 @@
+{
+  "name": "prisma-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ronnyacacio/prisma-playground.git",
+  "author": "Ronny Acacio <ronnyacacio27@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/cli": "^2.0.0-beta.5",
+    "@types/node": "^14.0.4",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.3"
+  }
+}
